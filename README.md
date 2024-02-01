@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Thriv
 
-## Getting Started
+Welcome to the official GitHub page for the Thriv, an innovative fitness tracker designed to revolutionize your workout experience. Our app is currently in development, but we're excited to share our progress and the features we're building.
 
-First, run the development server:
+## About Thriv Gym
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Thriv Gym is more than just a fitness tracker; it's your personal AI-powered fitness assistant. Our app is designed to help you track workouts, monitor caloric intake, and receive AI-generated recommendations tailored to your fitness goals.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Key Features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Workout Tracking**: Log your workouts with ease and monitor your progress over time.
+- **Caloric Intake Monitoring**: Keep track of your diet and caloric intake to align with your fitness objectives.
+- **AI-Generated Recommendations**: Receive personalized workout routines and diet plans based on your goals, progress, and preferences.
+- **Progress Tracking**: Visualize your fitness journey with detailed statistics and progress reports.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Development Status
 
-## Learn More
+Thriv Gym is still in the development phase. We're working hard to create an intuitive, feature-rich app that meets the needs of fitness enthusiasts of all levels. Here's what we're currently focusing on:
 
-To learn more about Next.js, take a look at the following resources:
+- Implementing a robust workout tracking system.
+- Developing the AI algorithm for personalized recommendations.
+- Designing a user-friendly interface.
+- Ensuring data accuracy and privacy.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Get Involved
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+We value community feedback and contributions. Here's how you can get involved:
 
-## Deploy on Vercel
+- **Feedback**: Share your thoughts and suggestions by opening an issue.
+- **Contribute**: Interested in contributing to the development? Check out our `CONTRIBUTING.md` for guidelines.
+- **Stay Updated**: Watch this repo to stay informed about the latest updates and releases.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact Us
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Have questions or want to get in touch? Reach out to us at [uchenna.c.njoku@gmail.com].
+
+## License
+
+Thriv Gym is licensed under the [MIT License](LICENSE).
+
+---
+
+We're excited to bring Thriv Gym to life and help you achieve your fitness goals. Stay tuned for updates, and thank you for your support!
+
